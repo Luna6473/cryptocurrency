@@ -1,3 +1,10 @@
+:root {
+ --white: #fff;
+ --black: #111;
+   blue: #3a80e9;
+   
+
+}
 body {
 
   -webkit-font-smoothing: antialiased;
