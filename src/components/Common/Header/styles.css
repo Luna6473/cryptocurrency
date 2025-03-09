@@ -1,5 +1,4 @@
-.header{
-    width:100%;
-    color:#fff
-    background-color=#000
+.navbar{
+    display: flex;
+    background-color: #000
 }
