@@ -6,3 +6,8 @@
     postion: sticky;
     background-color: var(--black);
 }
+
+.links{
+    display: flex;
+    justify-content: fex-end;
+}
