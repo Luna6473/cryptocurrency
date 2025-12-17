@@ -17,6 +17,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--black);
   color: var(--white);
+  height: 200vh;
+  font-family: 'Inter', sans-serif;
 }
 
 ::selection{
