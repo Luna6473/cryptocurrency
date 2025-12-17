@@ -20,7 +20,7 @@ body {
 }
 
 ::selection{
-  background-color:aquamarine;
+  background-color: var(--red);
   color: azure;
 }
 
