@@ -9,5 +9,7 @@
 
 .links{
     display: flex;
-    justify-content: fex-end;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1.5rem;
 }
