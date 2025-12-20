@@ -52,7 +52,7 @@ function DashboardPage() {
       <Loader/>
     ) : (
       <div>
-          <Search search={search} onSearchChange={onSearchChange}/>
+          <Search search={search} handleChange={onSearchChange}/>
           <TabsComponent coins={search?filteredCoins : paginatedCoins}/>
           {!search && (
             <PaginationComponent page={page} handlePageChange={handlePageChange}/>
